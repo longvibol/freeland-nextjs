@@ -256,7 +256,7 @@ export default function PortfolioPage() {
           <div className="container mx-auto px-6 py-4">
             <div className="flex items-center justify-between">
               <Link href="#" className="text-xl font-semibold text-foreground">
-                LONG Vibol kh
+                LONG Vibol
               </Link>
               <div className="hidden md:flex items-center gap-8">
                 <Link href="#about" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
